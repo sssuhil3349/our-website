@@ -1,0 +1,76 @@
+.imgbg{
+
+	background-image: url("1.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 100vh;
+	width:100%;
+	background-attachment: fixed;
+
+}
+.later{
+	margin-top:150px;
+}
+.later h2{
+	font-size: 42px;
+	font-weight: 700;
+}
+.later h1{
+	font-size: 82px;
+	font-weight: 700;
+}
+.Servicese{
+	position: relative;
+}
+.service h2{
+	font-size: 42px;
+	font-weight: 700;
+}
+.service p{
+	font-weight: 700;
+	letter-spacing: 3px;
+	font-size: 25px;
+}
+.service{
+	margin-bottom: 35px;
+}
+.imagetext{
+	width:100px;
+	height:100px;
+	border-radius: 50%;
+	background-color:yellow;
+	position: relative;
+}
+.fa-angle-double-up{
+	margin-top: 20px;
+}
+.textsetting h1{
+	margin-top: 15px;
+	font-weight: bold;
+	font-size: 25px;
+}
+.textsetting p{
+	padding:15px;
+}
+.card{
+	margin-top: 40px;
+}
+.AMAZING h1{
+	font-weight: bold;
+}
+footer{
+	padding:20px;
+}
+
+
+@media(max-width: 479px){
+
+	.later h2{
+	font-size: 22px;
+	font-weight: 700;
+         }
+      .later h1{
+	font-size: 42px;
+	font-weight: 700;
+}
+}
